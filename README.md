@@ -1,10 +1,9 @@
 # Educar para unir - 2020 #
 
-![didatize logo](/logo.jpeg)
 ---
 
-
 ## Didatize 
+![didatize logo](/logo.jpeg)
 
 ---
 
@@ -16,7 +15,7 @@ A nossa motivação veio da dificuldade que os alunos de Ensino Médio, principa
 
 ### O Produto
 
-Nosso produto é um site onde as pessoas conseguem encontrar uma trilha de estudo com materiais online selecionados, além de exercícios para poderem praticar os conhecimentos adquiridos nos módulos que foram definidos previamente pelos professores consultados pelo nosso time. O produto ajuda a minimizar os danos do covid-19 porque ele direciona alunos para o objetivo final do enem ou outro vestibular, e faz com que seja mais fácil achar conteúdo que ajude nos estudos.
+Nosso produto é um site onde as pessoas conseguem encontrar uma trilha de estudo com materiais online selecionados, além de exercícios para poderem praticar os conhecimentos adquiridos nos módulos que foram definidos previamente pelos professores consultados pelo nosso time, que vem de parcerias com cursinhos e escolas. O produto ajuda a minimizar os danos do covid-19 porque ele direciona alunos para o objetivo final do enem ou outro vestibular, e faz com que seja mais fácil achar conteúdo que ajude nos estudos. Nossa monetização é atingida através da parceria com cursinhos, escolas e faculdades, os quais disponibilizarão professores para fazer as trilhas, que terão conteúdos patrocinados da instituição, que serão pagos pela mesma.
 
 ---
 
@@ -39,3 +38,4 @@ O nosso objetivo principal é ajudar os estudantes de escola pública, logo o ac
 Nós escolhemos o desafio 3 do cluster de Educação listado no documento abaixo:
 
 https://docs.google.com/document/d/1KvCpk6BjknMzlBPxlnbQ8Ju_WxfIxftGPHJJM8MtewY/preview?pru=AAABcmI-cCc*Wo_hSDTfb4yhJKR_0mlF1A
+![estudante](/pessoa.jpeg)
