@@ -1,6 +1,6 @@
 # Educar para unir - 2020 #
 
-
+[didatize logo](/logo.png)
 ---
 
 
