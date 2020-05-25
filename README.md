@@ -39,7 +39,8 @@ Nós escolhemos o desafio 3 do cluster de Educação listado no documento abaixo
 
 https://docs.google.com/document/d/1KvCpk6BjknMzlBPxlnbQ8Ju_WxfIxftGPHJJM8MtewY/preview?pru=AAABcmI-cCc*Wo_hSDTfb4yhJKR_0mlF1A
 
-*OBSERVAÇÃO*
-O modelo em pdf é um protótipo que fizemos no figma
+## Modeo da plataforma
+
+Não conseguimos desenvolver a plataforma até o fim, mas esse modelo do figma mostra todas as funcionalidades essenciais da plataforma. Ao clicar no botão play, que fica no canto superior direito da tela, será possível navegar por cada aba do site, clicando como se fosse um usuário usando.
 
 <div style="text-align:center"><img src="/pessoa.jpeg" /></div>
