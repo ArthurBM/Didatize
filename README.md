@@ -39,4 +39,7 @@ Nós escolhemos o desafio 3 do cluster de Educação listado no documento abaixo
 
 https://docs.google.com/document/d/1KvCpk6BjknMzlBPxlnbQ8Ju_WxfIxftGPHJJM8MtewY/preview?pru=AAABcmI-cCc*Wo_hSDTfb4yhJKR_0mlF1A
 
+*OBSERVAÇÃO*
+O modelo em pdf é um protótipo que fizemos no figma
+
 <div style="text-align:center"><img src="/pessoa.jpeg" /></div>
