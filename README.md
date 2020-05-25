@@ -8,19 +8,19 @@
 
 ---
 
-####Apresentacao
+##Apresentacao##
 
 A nossa motivação veio da dificuldade que os alunos de Ensino Médio, principalmente de escola pública, estão tendo para organizar um roteiro de estudos, e saber O QUÊ estudar, visto que existe um excesso de conteúdo online, mas que não é centralizado e organizado. Dessa forma, decidimos fazer uma aplicação web que providencia trilhas de estudo, feitas pelos próprios professores, para que o aluno tenha um rumo definido, sem complicações.
 
 ---
 
-####O Produto
+##O Produto##
 
 Nosso produto é um site onde as pessoas conseguem encontrar uma trilha de estudo com materiais online selecionados, além de exercícios para poderem praticar os conhecimentos adquiridos nos módulos que foram definidos previamente pelos professores consultados pelo nosso time. O produto ajuda a minimizar os danos do covid-19 porque ele direciona alunos para o objetivo final do enem ou outro vestibular, e faz com que seja mais fácil achar conteúdo que ajude nos estudos.
 
 ---
 
-####informações extras
+##informações extras##
 
 *utilização do código*
 
