@@ -1,0 +1,117 @@
+body {
+  max-width: 90%;
+  max-height: 90%;
+  background: url('bg01.png');
+}
+.menu {
+  position: absolute;
+  width: 1440px;
+  height: 76px;
+  left: 0px;
+  top: -2px;
+  
+  background: #B6EFA2;
+}
+.entrar {
+  position: absolute;
+width: 151px;
+height: 34px;
+left: 934px;
+top: 14px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+
+.cadastrar {
+  position: absolute;
+width: 256px;
+height: 15px;
+left: 1085px;
+top: 14px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+letter-spacing: 0.2em;
+
+color: #000000;
+
+}
+.lepersona{
+position: absolute;
+width: 318px;
+height: 309px;
+left: 508px;
+top: 420px;
+
+background: url(lepersona.png);
+}
+
+.book1 {
+  position: absolute;
+width: 411px;
+height: 497px;
+left: -86px;
+top: 268px;
+
+background: url(book01.png);
+}
+.book2{
+  position: absolute;
+width: 411px;
+height: 497px;
+left: 47px;
+top: 265px;
+
+background: url(book02.png);
+}
+.book3{
+  position: absolute;
+width: 411px;
+height: 497px;
+left: 227px;
+top: 336px;
+
+background: url(book03.png);
+}
+.titulo1{
+  position: absolute;
+width: 380px;
+height: 231px;
+left: 934px;
+top: 177px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+.texto1{
+  position: absolute;
+width: 262px;
+height: 299px;
+left: 937px;
+top: 259px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
