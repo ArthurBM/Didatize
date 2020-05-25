@@ -19,6 +19,15 @@ Nosso produto é um site onde as pessoas conseguem encontrar uma trilha de estud
 
 ---
 
+## Modeo da plataforma
+
+https://www.figma.com/file/aPK9mn7piop2aFWI2pd7hF/Untitled?node-id=0%3A1
+
+Não conseguimos desenvolver a plataforma até o fim, mas esse modelo do figma mostra todas as funcionalidades essenciais da plataforma. Ao clicar no botão play, que fica no canto superior direito da tela, será possível navegar por cada aba do site, clicando como se fosse um usuário usando.
+
+---
+
+
 ### informações extras
 
 *utilização do código*
@@ -38,11 +47,5 @@ O nosso objetivo principal é ajudar os estudantes de escola pública, logo o ac
 Nós escolhemos o desafio 3 do cluster de Educação listado no documento abaixo:
 
 https://docs.google.com/document/d/1KvCpk6BjknMzlBPxlnbQ8Ju_WxfIxftGPHJJM8MtewY/preview?pru=AAABcmI-cCc*Wo_hSDTfb4yhJKR_0mlF1A
-
-## Modeo da plataforma
-
-https://www.figma.com/file/aPK9mn7piop2aFWI2pd7hF/Untitled?node-id=0%3A1
-
-Não conseguimos desenvolver a plataforma até o fim, mas esse modelo do figma mostra todas as funcionalidades essenciais da plataforma. Ao clicar no botão play, que fica no canto superior direito da tela, será possível navegar por cada aba do site, clicando como se fosse um usuário usando.
 
 <div style="text-align:center"><img src="/pessoa.jpeg" /></div>
