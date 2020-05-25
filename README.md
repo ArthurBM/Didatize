@@ -19,7 +19,7 @@ Nosso produto é um site onde as pessoas conseguem encontrar uma trilha de estud
 
 ---
 
-## Modeo da plataforma
+### Modelo da plataforma
 
 https://www.figma.com/file/aPK9mn7piop2aFWI2pd7hF/Untitled?node-id=0%3A1
 
