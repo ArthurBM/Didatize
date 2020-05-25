@@ -41,6 +41,8 @@ https://docs.google.com/document/d/1KvCpk6BjknMzlBPxlnbQ8Ju_WxfIxftGPHJJM8MtewY/
 
 ## Modeo da plataforma
 
+https://www.figma.com/file/aPK9mn7piop2aFWI2pd7hF/Untitled?node-id=0%3A1
+
 Não conseguimos desenvolver a plataforma até o fim, mas esse modelo do figma mostra todas as funcionalidades essenciais da plataforma. Ao clicar no botão play, que fica no canto superior direito da tela, será possível navegar por cada aba do site, clicando como se fosse um usuário usando.
 
 <div style="text-align:center"><img src="/pessoa.jpeg" /></div>
