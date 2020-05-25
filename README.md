@@ -1,16 +1,41 @@
->Esse é um arquivo de template e tem como o intuito prover uma breve apresentação de seu projeto para avaliadores e mentores. Sinta-se à vontade para editar os tópicos e títulos de acordo com seu gosto ou até mesmo para deletá-lo ou sobrescreve-lo caso o queira. Cheque também o arquivo [repositorio.md](https://github.com/hackingrio/template/blob/master/repositorio.md) para saber o que acontecerá com esse repositório depois que o evento acabar.
+# Educar para unir - 2020 #
 
-# Nome do produto - 2020
-### Nome do grupo / Nome da Vertical
 
-#### Apresentação 
+---
 
-Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
 
-#### O Produto
+## Didatize 
 
-Entre em mais detalhes sobre seu produto, levantando pontos positivos, o porquê dele ser inovador e como ele ajuda o Brasil e o mundo no combate e minimização de danos causados pela COVID-19.
+---
 
-#### Informações adicionais 
+### Apresentacao
 
-Forneça informações adicionais, adicione novos tópicos ou subtópicos. Use esse arquivo como um guia rápido para manter claro os objetivos de seu projeto para os demais integrantes. Manter o foco conjunto de forma coesa lhe ajudará a criar um produto mais *sólido*.
+A nossa motivação veio da dificuldade que os alunos de Ensino Médio, principalmente de escola pública, estão tendo para organizar um roteiro de estudos, e saber O QUÊ estudar, visto que existe um excesso de conteúdo online, mas que não é centralizado e organizado. Dessa forma, decidimos fazer uma aplicação web que providencia trilhas de estudo, feitas pelos próprios professores, para que o aluno tenha um rumo definido, sem complicações.
+
+---
+
+### O Produto
+
+Nosso produto é um site onde as pessoas conseguem encontrar uma trilha de estudo com materiais online selecionados, além de exercícios para poderem praticar os conhecimentos adquiridos nos módulos que foram definidos previamente pelos professores consultados pelo nosso time. O produto ajuda a minimizar os danos do covid-19 porque ele direciona alunos para o objetivo final do enem ou outro vestibular, e faz com que seja mais fácil achar conteúdo que ajude nos estudos.
+
+---
+
+### informações extras
+
+*utilização do código*
+
+Para conseguir rodar o codigo é necessario ter node js no seu computador, para instalar em windows é recomendavel usar o package manager chamado chocolatey, em mac é recomendado homebrew, todas as informações para download estão nesse link : https://nodejs.org/en/download/package-manager/
+
+*Trilhas de estudo*
+
+As trilhas de estudo utilizadas pelo nosso site seriam fornecidas pelos cursinhos/escolas que patrocinam o nosso site e eles seriam focados em objetivos (por exemplo o Enem, que é mais abrangente). Com o sucesso da plataforma, criaríamos também trilhas específicas de conteúdo para outros vestibulares, por exemplo curso de medicina da PUC-rio). Ao final de cada conteúdo, os exercícios para testar os alunos serão constantemente renovados e  fornecidos pelas instituições (colégios, cursinhos particulares...) que usarão os dados de desempenho do usuário para fins de mercado.
+
+*Estudantes*
+
+O nosso objetivo principal é ajudar os estudantes de escola pública, logo o acesso à plataforma deve ser grátis e existiriam simulados online marcados por escolas onde os alunos mais bem colocados poderiam conseguir bolsas para a escola que fez tal simulado, levando alunos com excelência à escolas de renome. Mesmo os alunos não contemplados por bolsa, tirariam grande proveito da plataforma pois conseguiria mais orientacão e ajuda na sua jornada de estudo online.
+
+*Desafio Escolhido*
+
+Nós escolhemos o desafio 3 do cluster de Educação listado no documento abaixo:
+
+https://docs.google.com/document/d/1KvCpk6BjknMzlBPxlnbQ8Ju_WxfIxftGPHJJM8MtewY/preview?pru=AAABcmI-cCc*Wo_hSDTfb4yhJKR_0mlF1A
