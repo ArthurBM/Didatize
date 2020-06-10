@@ -29,7 +29,6 @@ router.post('/authenticate', async(req, res) => {
 */
 router.post('/register', async (req, res) => {
     const { email, password, city, state } = req.body;
-    console.log('cheguei')
     try {
         //Se o email já existir, não deixar cadastrar o usuário e informar o erro
         if (await User.findOne({ email })) {
