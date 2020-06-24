@@ -1,0 +1,24 @@
+:root {
+    --button-color: #77AC8A;
+    --primary-color: #B6EFA2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 0.2em;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    text-decoration: none;
+}
+

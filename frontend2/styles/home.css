@@ -1,0 +1,36 @@
+.page-home {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.page-home .field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-home .field a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    font-weight: normal;
+    background: var(--button-color);
+    border-radius: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+    color: black;
+}
+
+.page-home .field a + a + a {
+    font-size: 18px;
+    background: none;
+    color: #77AC8A;
+    text-decoration: underline;
+}

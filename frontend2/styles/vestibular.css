@@ -1,0 +1,46 @@
+.page-vest {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.page-vest .list-vest {
+    display: flex;
+    width: 100%;
+    height: 80vh;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.page-vest .list-vest a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    font-weight: normal;
+    background: var(--button-color);
+    border-radius: 20px;
+    font-size: 24px;
+    color: black;
+}
+
+h1 {
+    margin-top: 7%;
+}
+
+.page-vest a span {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: url('/assets/arrow-left.svg');
+    top: 1em;
+    left: 1em;
+
+}
+

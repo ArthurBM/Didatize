@@ -14,19 +14,19 @@ body {
 }
 .entrar {
   position: absolute;
-width: 151px;
-height: 34px;
-left: 934px;
-top: 14px;
+  width: 151px;
+  height: 34px;
+  left: 934px;
+  top: 14px;
 
-font-family: Roboto Condensed;
-font-style: normal;
-font-weight: normal;
-font-size: 30px;
-line-height: 35px;
-letter-spacing: 0.2em;
+  font-family: Roboto Condensed;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 0.2em;
 
-color: #000000;
+  color: #000000;
 }
 
 .cadastrar {
